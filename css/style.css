@@ -13,3 +13,6 @@ body {
 .underline {
     border-bottom: 2px solid #3b5998
 }
+.profile-photo {
+    max-width: 224px;
+}
