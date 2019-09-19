@@ -32,4 +32,4 @@ Fire up a browser and go to **http://_username_.github.io/_repository_**.
 
 ## Optional setup (not covered during the course):
 
- - VS Code fine tuning – Read this article
+ - VS Code fine tuning – [Read this article](https://scotch.io/bar-talk/22-best-visual-studio-code-extensions-for-web-development)
