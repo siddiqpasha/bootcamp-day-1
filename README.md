@@ -12,10 +12,9 @@ This repository encompasses some basic concepts of HTML, CSS and the Bootstrap F
 
 ## Instructions
 
- - Create a repository on your GitHub account 
- - Clone the repository to your local system
- - Download files from master branch from this repository
- - Copy files from downloaded folder and paste it inside your repository
+ - Create a new repository on your GitHub account clone it to your local system
+ - Download files from master branch of this repository
+ - Copy files from downloaded folder and paste it inside the folder you created in step 1
  - Import/Open the project in VS Code
  - Open the index.html file in VS Code and start the hot reload server
  - Read through the comments in the HTML file and start making changes to make this resume your own
