@@ -2,7 +2,7 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 .bg-blue {
-    background-color: #3b5998
+    background-color: #131E3A;
 }
 .text-blue {
     color: #3b5998;
@@ -11,8 +11,12 @@ body {
     background-color: #3b5998;
 }
 .underline {
-    border-bottom: 2px solid #3b5998
+    border-bottom: 2px solid #131E3A;
 }
 .profile-photo {
-    max-width: 224px;
+    max-width: 200px;
+}
+.mobile-number{
+    font-style: normal;
+    font-family: 'Times New Roman';
 }
